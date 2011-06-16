@@ -1,0 +1,31 @@
+---
+abstract: 'Helper library for wax'
+author:
+  - 'chocolateboy <chocolate@cpan.org>'
+build_requires:
+  ExtUtils::MakeMaker: 6.42
+configure_requires:
+  ExtUtils::MakeMaker: 6.42
+distribution_type: module
+generated_by: 'Module::Install version 1.01'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: App-Wax
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  HTTP::Request: 0
+  LWP: 0
+  MIME::Types: 1.31
+  Method::Signatures::Simple: 0.06
+  Mouse: 0.93
+  URI: 0
+  perl: 5.8.8
+resources:
+  license: http://dev.perl.org/licenses/
+  repository: git://github.com/chocolateboy/App-Wax.git
+version: 0.0.1
