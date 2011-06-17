@@ -27,5 +27,5 @@ requires:
   perl: 5.8.8
 resources:
   license: http://dev.perl.org/licenses/
-  repository: git://github.com/chocolateboy/App-Wax.git
-version: 0.1.0
+  repository: https://github.com/chocolateboy/App-Wax
+version: 0.2.0
