@@ -28,4 +28,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/chocolateboy/App-Wax
-version: 0.3.0
+version: 0.3.1
